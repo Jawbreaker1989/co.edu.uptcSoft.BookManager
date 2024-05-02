@@ -1,0 +1,3 @@
+CÓMO PROGRAMAR EN JAVA.,PAUL J. Y HARVEY M. DEITEL,2008
+Software Architecture Patterns,Mark Richards,2015
+FUNDAMENTOS DE BASES DE DATOS,Abraham Silberschatz,2002
